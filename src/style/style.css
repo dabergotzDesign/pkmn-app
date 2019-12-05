@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background:#111;
+    font-family: monospace;
+}
+
+.top{
+    background: red;
+    height: 50vh;
+    border-top-left-radius:200px;
+    border-top-right-radius:200px;
+
+    box-shadow:120px 0px rgb(255, 111, 111) inset;
+}
+
+.content{
+    position: absolute;
+    top:42.5%;
+    left:0;
+    background: black;
+    height:10vh;
+    width:100%;
+}
+
+.bottom{
+    background: rgb(250, 250, 250);
+    height:50vh;
+    border-bottom-left-radius:200px;
+    border-bottom-right-radius:200px;
+
+    box-shadow:-120px 0px rgb(192, 192, 192) inset;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+    text-shadow: 0px 0px 2px rgb(1, 1, 158),1px 1px 4px rgb(1, 1, 158),2px 2px 6px rgb(1, 1, 158);
+
+
+    font-size: 2.5rem;
+    padding: 2rem;
+}
+
+.roll-button{
+    display: block;
+    margin: 2rem auto;
+    width: 100px;
+}
+
+button{
+    height: 100px;
+    width:100px;
+    border-radius:50%;
+    border: 4px solid black;
+
+    font-weight: 900;
+    font-size: 1em;
+    text-align: center;
+    color:#111;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+    outline: none;
+    box-shadow: -5px -5px 2px grey inset, 5px 5px 2px white inset;
+}
+
+.name{
+    text-align: center;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color:whitesmoke;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.pkmnSprite{
+    display: block;
+    margin: -5rem auto;
+    height: 15%;
+    width: 15%;
+
+    background: whitesmoke;
+    border: 2rem solid black;
+    border-radius: 50%;
+}
+
+.types{
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+    position: relative;
+    top: 12rem;
+}
+
+.type1,.type2{
+    font-size:1.5rem;
+    padding: .5rem 1rem;
+
+    border: 6px whitesmoke solid;
+    color:whitesmoke;
+    border-radius: 50px;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 2px black;
+    box-shadow: 0 0 2px black inset,  0 0 2px black;
+
+    /* background: gray; */
+}

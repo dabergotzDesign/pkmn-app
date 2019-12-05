@@ -1,0 +1,71 @@
+.normal{
+    background: grey;
+}
+
+.fire{
+    background: orangered;
+}
+
+.water{
+    background: blue;
+}
+
+.plant{
+    background:limegreen
+}
+
+.electric{
+    background:yellow;
+}
+
+.ice{
+    background:powderblue;
+}
+
+.fighting{
+    background:darkred;
+}
+
+.poison{
+    background:purple;
+}
+
+.ground{
+    background:peru;
+}
+
+.flying{
+    background:dodgerblue;
+}
+
+.psycho{
+    background:mediumvioletred;
+}
+
+.bug{
+    background:olivedrab;
+}
+
+.rock{
+    background:saddlebrown;
+}
+
+.ghost{
+    background:darkmagenta;
+}
+
+.dragon{
+    background:mediumslateblue;
+}
+
+.dark{
+    background:black;
+}
+
+.steel{
+    background:dimgray;
+}
+
+.fairy{
+    background:hotpink;
+}
