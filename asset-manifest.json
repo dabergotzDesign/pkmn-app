@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pkmn-app/static/css/main.6b5a1168.chunk.css",
+    "main.js": "/pkmn-app/static/js/main.cf90e0df.chunk.js",
+    "main.js.map": "/pkmn-app/static/js/main.cf90e0df.chunk.js.map",
+    "runtime-main.js": "/pkmn-app/static/js/runtime-main.911fd800.js",
+    "runtime-main.js.map": "/pkmn-app/static/js/runtime-main.911fd800.js.map",
+    "static/js/2.0fc75db7.chunk.js": "/pkmn-app/static/js/2.0fc75db7.chunk.js",
+    "static/js/2.0fc75db7.chunk.js.map": "/pkmn-app/static/js/2.0fc75db7.chunk.js.map",
+    "index.html": "/pkmn-app/index.html",
+    "precache-manifest.966405b22ebfae2a98dc08095a4017e4.js": "/pkmn-app/precache-manifest.966405b22ebfae2a98dc08095a4017e4.js",
+    "service-worker.js": "/pkmn-app/service-worker.js",
+    "static/css/main.6b5a1168.chunk.css.map": "/pkmn-app/static/css/main.6b5a1168.chunk.css.map",
+    "static/js/2.0fc75db7.chunk.js.LICENSE": "/pkmn-app/static/js/2.0fc75db7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.911fd800.js",
+    "static/js/2.0fc75db7.chunk.js",
+    "static/css/main.6b5a1168.chunk.css",
+    "static/js/main.cf90e0df.chunk.js"
+  ]
+}
