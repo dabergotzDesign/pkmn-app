@@ -48,13 +48,11 @@ h1{
     padding: 2rem;
 }
 
-.roll-button{
+button{
     display: block;
     margin: 2rem auto;
     width: 100px;
-}
 
-button{
     height: 100px;
     width:100px;
     border-radius:50%;
@@ -97,8 +95,8 @@ button:active{
 .pkmnSprite{
     display: block;
     margin: -5rem auto;
-    height: 15%;
-    width: 15%;
+    height: 240px;
+    width: 240px;
 
     background: whitesmoke;
     border: 2rem solid black;
