@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "006aa0ef06c69587b313b09282f902aa",
+    "revision": "f493f581eea8a8add0fe6d92005292fd",
     "url": "/pkmn-app/index.html"
   },
   {
